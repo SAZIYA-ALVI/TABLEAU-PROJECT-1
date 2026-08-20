@@ -115,17 +115,6 @@ Depression-Student-Analysis/
 └── dashboard/
     └── student_analysis_dashboard.pbix
 
-🚀 How to Use
-
-Clone this repository.
-
-Add or open the Depression Student Dataset.
-
-Open the analysis notebook or dashboard file.
-
-Explore the visualizations.
-
-Compare student patterns across sleep, study, satisfaction, academic pressure, and financial stress.
 
 💡 Future Improvements
 
